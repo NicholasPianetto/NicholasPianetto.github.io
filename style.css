@@ -1,8 +1,10 @@
 header {
     font-size: 1.2em;
-    color: #e61515;
+        font-size: 50px;
     font-family: 'Westminster', monospace;
-    background-color: aqua;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00FF41;
     line-height: 1.6;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -94,4 +96,5 @@ a{
     color: #fff;
 
 }
+
 
