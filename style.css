@@ -24,6 +24,14 @@ nav ul {
     justify-content: center;
 }
 
+.terminal{
+        font-size: 50px;
+    font-family: 'Westminster', monospace;
+    font-weight: bold;
+    text-align: center;
+
+}
+
 .myh1class {
     color: #063b74;
 }
@@ -84,4 +92,5 @@ a{
     background-color:
         #333;
     color: #fff;
+
 }
